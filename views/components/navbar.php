@@ -1,8 +1,8 @@
 <header>
-  <nav>
-    <a href="/">Pasakumi</a>
-    <a href="/about">kolektivi</a>
-    <a href="/create">Creat pasakumi</a>
-    
-  </nav>
+    <nav>
+        <a href="/kolektivi">kolektivi</a>
+        <a href="/">pasakumi</a>
+        <a href="/create">Create</a>
+        <a href="/delete">Delete</a>
+    </nav>
 </header>

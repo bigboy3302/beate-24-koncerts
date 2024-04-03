@@ -1,7 +1,7 @@
 <?php
-
 return [
-  "/" => "controllers/posts.php",
-  "/pasakumi" => "controllers/pasakumi-create.php",
-  "/kolektivi" => "controllers/kolektivi.php",
+    "/" => "controllers/pasakumi/pasakumi.php",
+    "/kolektivi" => "controllers/kolektivi/kolektivi.php",
+    "/create" => "controllers/kolektivi/create.php",
+    "/delete" => "controllers/kolektivi/delete.php" 
 ];
